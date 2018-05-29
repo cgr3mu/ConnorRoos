@@ -17,20 +17,14 @@ sidebar:
     email: cgr3mu@virginia.edu
     phone: 540 760 6592
     website: cgr3mu.github.io/online-cv/ #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    linkedin: connorroos
+    github: cgr3mu
+    twitter: 
 
     languages:
         - language:
           idiom: English
           level: Native
-        - language:
-          idiom: French
-          level: Professional
-        - language:
-          idiom: Spanish
-          level: Professional
         
     interests:
         - interest:
