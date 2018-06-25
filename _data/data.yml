@@ -23,13 +23,13 @@ sidebar:
     
     interests:
         - interest:
-          item: Climbing
+          item: Hiking
           link:
         - interest:
           item: Snowboarding
           link:
         - interest:
-          item: Cooking
+          item: Role Playing Games
           link:
 
         
@@ -39,7 +39,15 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: National Science Foundation University of Central Florida   Undergraduate Research Fellow Summer 2018
+• Conducted Research for the paper: Adversarial Multi Modal Transfer Learning
+• Computer Vision Project written in Python using Keras with a Tensorflow Backend
+• Wrote the code which can be viewed on my Github page at <a href="https://github.com/cgr3mu/keras-frcnn" target="_blank" rel="nofollow">
+    
+    Naval Surface Warfare Center Dahlgren Division (V43 Department)	Dahlgren, VA	Department of Defense Summer Pathways Intern 	 Summer 2017
+•	Utilized the ACCESS control management system which is written in-house at V43 in Java
+•	Granted a Secret Security Clearance
+
 
 
 studies:
