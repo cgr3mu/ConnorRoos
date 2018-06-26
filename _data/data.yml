@@ -39,27 +39,22 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 
-    National Science Foundation University of Central Florida   Undergraduate Research Fellow Summer 2018
-    • Conducted Research for the paper: Adversarial Multi Modal Transfer Learning
-    • Computer Vision Project written in Python using Keras with a Tensorflow Backend
-    • Wrote the code which can be viewed on my Github page at <a href="https://github.com/cgr3mu/keras-frcnn" target="_blank" rel="nofollow">
-    
-    Naval Surface Warfare Center Dahlgren Division (V43 Department)	Dahlgren, VA	Department of Defense Summer Pathways Intern 	 Summer 2017
-•	Utilized the ACCESS control management system which is written in-house at V43 in Java
-•	Granted a Secret Security Clearance
-
-
+    text: National Science Foundation University of Central Florida   Undergraduate Research Fellow Summer 2018
+          2018 Research Experience for Undergraduates (REU) in Computer Vision at the University of Central Florida
+          Conducted Research for the paper: Adversarial Multi Modal Transfer Learning
+          Computer Vision Project written in Python using Keras with a Tensorflow Backend
+          Wrote the code which can be viewed on my Github page at <a href="https://github.com/cgr3mu/keras-frcnn" target="_blank" rel="nofollow">
+          
+          Naval Surface Warfare Center Dahlgren Division (V43 Department)	Dahlgren, VA	Department of Defense Summer Pathways Intern 	 Summer 2017
+          Utilized the ACCESS control management system which is written in-house at V43 in Java
+          Granted a Secret Security Clearance
 
 studies:
     - education:
       degree: BS. Computer Engineering
       university: University of Vrginia
       time: 2016 - 2020
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      details: GPA: 3.95, Degree GPA: 3.92, Elective Coursework included Computer Vision and Algorithms
 
 
 projects:
@@ -69,67 +64,40 @@ projects:
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      - project:
-        title: DevStudio
+        title: Solar Car Team
+        link: <a href="https://github.com/orgs/solarcaratuva/dashboard" target="_blank" rel="nofollow">
+        tagline: "Produced Arduino scripts necessary for producing and testing components for the Solar Car Team, also managed its Github Repo."
+      - project: 
+        title: Adversarial Multi Modal Transfer Learning
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-      - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A research project that I am currently working on as a part of my REU for Computer Vision."
 
 
 publications:
     title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "Hopefully by the end of the Summer I will have a finished paper ready to submit for CVPR 2019."
     
     publications:
       - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        title: Adversarial Multi Modal Transfer Learning
+        authors: Connor Roos, Kishan Athrey, Mubarak Shah
+        conference: NA
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: Python 
+          level: 75%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
-        - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
-          level: 85%
-        - skill:
-          name: Sketch & Photoshop
+          name: Java
           level: 60%
+        - skill:
+          name: Javascript, HTML5 & CSS
+          level: 50%
+        - skill:
+          name: C & C++
+          level: 70%
 
 
 footer: 
