@@ -51,7 +51,7 @@ studies:
 
 projects:
     title: Projects
-    intro: "I will be listing information about my most recent projects here."
+    intro: "I'm going to list information regarding my projects, including Github repos and results here."
     
     projects:
       - project:
