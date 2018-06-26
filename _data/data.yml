@@ -41,7 +41,7 @@ career-profile:
     title: Career Profile
     text: National Science Foundation University of Central Florida   Undergraduate Research Fellow Summer 2018
           2018 Research Experience for Undergraduates (REU) in Computer Vision at the University of Central Florida
-          Conducted Research for the paper: Adversarial Multi Modal Transfer Learning
+          Conducted Research for the paper Adversarial Multi Modal Transfer Learning
           Computer Vision Project written in Python using Keras with a Tensorflow Backend
           Wrote the code which can be viewed on my Github page at <a href="https://github.com/cgr3mu/keras-frcnn" target="_blank" rel="nofollow">
           
@@ -54,7 +54,7 @@ studies:
       degree: BS. Computer Engineering
       university: University of Vrginia
       time: 2016 - 2020
-      details: GPA: 3.95, Degree GPA: 3.92, Elective Coursework included Computer Vision and Algorithms
+      details: GPA 3.95, Degree GPA 3.92, Elective Coursework included Computer Vision and Algorithms
 
 
 projects:
