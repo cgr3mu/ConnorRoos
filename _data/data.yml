@@ -57,7 +57,7 @@ projects:
     projects:
       - project:
         title: Solar Car Team
-        link: <a href="https://github.com/orgs/solarcaratuva/dashboard" target="_blank" rel="nofollow"> github.com/orgs/solarcaratuva/dashboard</a>
+        link: <a href="https://github.com/orgs/solarcaratuva/dashboard" target="_blank" rel="nofollow">
         tagline: "Produced Arduino scripts necessary for producing and testing components for the Solar Car Team, also managed its Github Repo."
       - project: 
         title: Adversarial Multi Modal Transfer Learning
