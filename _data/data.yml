@@ -39,7 +39,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: Hi, I'm Connor, I'm a rising Third-Year Student at the University of Virginia looking for internship opportunities in Software Development for Summer 2019. My full Resume is at <a href="https://github.com/cgr3mu/online-cv/raw/master/Connor%20Roos%20Resume.pdf" target="_blank" rel="nofollow"> "cgr3mu/online-cv/Connor Roos Resume.pdf", and I mostly use this page for more up-to-date information on the projects I am working on. If you’re interested in anything on my Github Page, send me a text or email with the contact info on the right. Hope you have a nice day!
+    text: Hi, I'm Connor, I'm a rising Third-Year Student at the University of Virginia looking for internship opportunities in Software Development for Summer 2019. My full Resume is at: <a href="https://github.com/cgr3mu/online-cv/raw/master/Connor%20Roos%20Resume.pdf" target="_blank" rel="nofollow">Connor Roos Resume.pdf</a>, and I mostly use this page for more up-to-date information on the projects I am working on. If you’re interested in anything on my Github Page, send me a text or email with the contact info on the right. Hope you have a nice day!
 
 studies:
     - education:
@@ -57,7 +57,7 @@ projects:
     projects:
       - project:
         title: Solar Car Team
-        link: <a href="https://github.com/orgs/solarcaratuva/dashboard" target="_blank" rel="nofollow">
+        link: <a href="https://github.com/orgs/solarcaratuva/dashboard" target="_blank" rel="nofollow"> github.com/orgs/solarcaratuva/dashboard</a>
         tagline: "Produced Arduino scripts necessary for producing and testing components for the Solar Car Team, also managed its Github Repo."
       - project: 
         title: Adversarial Multi Modal Transfer Learning
