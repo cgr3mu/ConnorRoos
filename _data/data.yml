@@ -6,7 +6,7 @@ sidebar:
     # Site Settings
     title: My Resume
     url: 'http://webjeda.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Connor Roos
@@ -51,7 +51,7 @@ studies:
 
 projects:
     title: Projects
-    intro: "I'm going to list information regarding my projects, including Github repos and results here."
+    intro: "I'll list all projects relevant to Software Development here"
     
     projects:
       - project:
