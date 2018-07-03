@@ -4,7 +4,7 @@
 
 sidebar:
     # Site Settings
-    title: My Resume
+    title: Connor Roos
     url: 'http://webjeda.com'
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
@@ -43,15 +43,15 @@ career-profile:
 
 studies:
     - education:
-      degree: BS. Computer Engineering
+      degree: BS. Computer Engineering, Bussiness Minor
       university: University of Vrginia
       time: 2016 - 2020
-      details: GPA 3.95, Degree GPA 3.92, Elective Coursework included Computer Vision and Algorithms
+      details: GPA 3.95, Degree GPA 3.92, Elective Coursework included Computer Vision, Algorithms, and Financial Accounting
 
 
 projects:
     title: Projects
-    intro: "I'll list all projects relevant to Software Development here"
+    intro: "All Completed/Ongoing Projects I've been involed with will be listed below"
     
     projects:
       - project:
@@ -61,17 +61,17 @@ projects:
       - project: 
         title: Adversarial Multi Modal Transfer Learning
         link: "#"
-        tagline: "A research project that I am currently working on as a part of my REU for Computer Vision."
+        tagline: "A research project that I am currently working on as a part of my REU for Computer Vision. I've been working on it across multple repositories any need to clean that up"
 
 
 publications:
     title: Publications
-    intro: "Hopefully by the end of the Summer I will have a finished paper ready to submit for CVPR 2019."
+    intro: "By the end of the Summer I'll have an REU paper, I might host it here if it goes anywhere."
     
     publications:
       - paper:
         title: Adversarial Multi Modal Transfer Learning
-        authors: Connor Roos, Kishan Athrey, Mubarak Shah
+        authors: Kishan Athrey, Connor Roos, Mubarak Shah
         conference: NA
 
 skills:
