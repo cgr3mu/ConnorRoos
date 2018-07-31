@@ -60,19 +60,13 @@ projects:
         tagline: "Produced Arduino scripts necessary for producing and testing components for the Solar Car Team, also managed its Github Repo."
       - project: 
         title: Adversarial Multi Modal Transfer Learning
-        link: "#"
+        link: "<a href="https://github.com/cgr3mu/online-cv/raw/master/Connor%20Roos%20REU_Report.pdf" target="_blank" rel="nofollow">Connor Roos Resume.pdf</a>"
         tagline: "A research project that I am currently working on as a part of my REU for Computer Vision. I've been working on it across multple repositories any need to clean that up"
 
 
 publications:
     title: Publications
-    intro: "By the end of the Summer I'll have an REU paper, I might host it here if it goes anywhere."
-    
-    publications:
-      - paper:
-        title: Adversarial Multi Modal Transfer Learning
-        authors: Kishan Athrey, Connor Roos, Mubarak Shah
-        conference: NA
+    intro: "I'm currently working on publishing research I conducted during an REU over the Summer of 2018, among other projects.
 
 skills:
     title: Skills &amp; Proficiency
