@@ -60,7 +60,7 @@ projects:
         tagline: "Produced Arduino scripts necessary for producing and testing components for the Solar Car Team, also managed its Github Repo."
       - project: 
         title: Adversarial Multi Modal Transfer Learning
-        link: "<a href="https://github.com/cgr3mu/online-cv/raw/master/Connor%20Roos%20REU_Report.pdf" target="_blank" rel="nofollow">Connor Roos Resume.pdf</a>"
+        link: "https://github.com/cgr3mu/online-cv/raw/master/Connor%20Roos%20REU_Report.pdf"
         tagline: "A research project that I am currently working on as a part of my REU for Computer Vision. I've been working on it across multple repositories and probably need to spend some time cleaning it up"
 
 
