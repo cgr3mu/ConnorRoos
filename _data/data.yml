@@ -61,7 +61,7 @@ projects:
       - project: 
         title: Adversarial Multi Modal Transfer Learning
         link: "<a href="https://github.com/cgr3mu/online-cv/raw/master/Connor%20Roos%20REU_Report.pdf" target="_blank" rel="nofollow">Connor Roos Resume.pdf</a>"
-        tagline: "A research project that I am currently working on as a part of my REU for Computer Vision. I've been working on it across multple repositories any need to clean that up"
+        tagline: "A research project that I am currently working on as a part of my REU for Computer Vision. I've been working on it across multple repositories and probably need to spend some time cleaning it up"
 
 
 publications:
