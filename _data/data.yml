@@ -63,11 +63,6 @@ projects:
         link: "https://github.com/cgr3mu/online-cv/raw/master/Connor%20Roos%20REU_Report.pdf"
         tagline: "A research project that I am currently working on as a part of my REU for Computer Vision. I've been working on it across multple repositories and probably need to spend some time cleaning it up"
 
-
-publications:
-    title: Publications
-    intro: "I'm currently working on publishing research I conducted during an REU over the Summer of 2018, among other projects.
-
 skills:
     title: Skills &amp; Proficiency
     skills:
