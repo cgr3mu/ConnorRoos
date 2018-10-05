@@ -16,7 +16,7 @@ sidebar:
     # Sidebar links
     email: cgr3mu@virginia.edu
     phone: 540 760 6592
-    website: cgr3mu.github.io/online-cv/ (Recursive) #do not add http://
+    website: cgr3mu.github.io/online-cv/#do not add http://
     linkedin: connorroos
     github: cgr3mu
     twitter: 
@@ -61,7 +61,7 @@ projects:
       - project: 
         title: Adversarial Multi Modal Transfer Learning
         link: "https://github.com/cgr3mu/online-cv/raw/master/Connor%20Roos%20REU_Report.pdf"
-        tagline: "A research project that I worked on for my REU for Computer Vision. Although I don't plan to publish it, I still produced a CVPR styled paper which you can download by clicking on the Title. All the code for this paper can be viewed at my Github in the ResNet-Fusion Repo."
+        tagline: "A research project that I worked on for my REU for Computer Vision. Although I don't plan to publish it, I still produced a CVPR styled paper which you can download by clicking on the Title. All the code for this paper can be viewed at my Github in the ResNet-Fusion<a href="https://github.com/cgr3mu/ResNet-Fusion" target="_blank" rel="nofollow"> Repo."
 
 skills:
     title: Skills &amp; Proficiency
